@@ -1,0 +1,21 @@
+# Downloaded prices and generated outputs
+data/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Tools and editors
+.ipynb_checkpoints/
+.pytest_cache/
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
